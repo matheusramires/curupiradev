@@ -1,0 +1,15 @@
+SOBRE:
+A CurupiraDev é uma startup voltada para a criação de software e
+soluções tecnológicas.
+
+A startup está no mercado desde 2023, ano em que ocorre a maior estiagem no Estado do Amazonas,
+o nome foi pensado no grande guardião da floresta, o Curupira, um dos personagens do folclore brasileiro. 
+
+
+ramos
+Desenvolvimento Web
+	- LANDING PAGE
+	- LOJAS VIRTUAIS
+
+Desktop
+	- 
